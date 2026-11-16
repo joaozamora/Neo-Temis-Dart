@@ -186,4 +186,4 @@ As rotas estão em [`neotemis_api/README.md`](neotemis_api/README.md)
 - Igor Dias Viana RGM: 11251100289
 - Guilherme Borges RGM: 11251100564
 - Glaucio dos Santos Abrantes Soares RGM: 11251100887
-- João Vitor Albuquerque Zamora
+- João Vitor Albuquerque Zamora RGM: 11251100929
